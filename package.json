@@ -1,6 +1,6 @@
 {
   "name": "@meluiz/next-seo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple SEO management to Next.js v13+",
   "main": "./index.js",
   "types": "./index.d.ts",
