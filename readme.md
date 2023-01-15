@@ -218,7 +218,3 @@ The `default` and `make` method work with this bollow props:
 | defaultImageWidth           | number                 |
 | defaultOpenGraphVideoWidth  | number                 |
 | defaultOpenGraphVideoHeight | number                 |
-
-## Contributors
-
-[Contributing Guide](./CONTRIBUTING.md)
