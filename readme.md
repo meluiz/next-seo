@@ -1,4 +1,4 @@
-# memojs
+# Next SEO
 
 Simple SEO managment that makes managing SEO easier in NextJS v13+ projects.
 
