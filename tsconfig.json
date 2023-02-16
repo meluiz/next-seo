@@ -1,6 +1,5 @@
 {
   "compilerOptions": {
-    "types": ["node"],
     "target": "es2015",
     "module": "commonjs",
     "jsx": "react-jsx",
