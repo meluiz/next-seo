@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.13](https://github.com/meluiz/next-seo/compare/v1.0.7...v1.0.13) (2023-02-17)
+
+
+### Bug Fixes
+
+* types correction ([86e13b9](https://github.com/meluiz/next-seo/commits/86e13b9293e2fd33dfeb9ea0550eee743a365767))
+
 ### [1.0.7](https://github.com/meluiz/next-seo/compare/v1.0.6...v1.0.7) (2023-02-16)
 
 
