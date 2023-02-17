@@ -5,21 +5,21 @@ import type { LinktagProps } from "./linktag";
 import type { TwitterProps } from "./twitter";
 
 export declare interface MakeProps {
-  title: string;
-  titleTemplate: string;
-  defaultTitle: string;
+  title?: string;
+  titleTemplate?: string;
+  defaultTitle?: string;
 
-  noindex: boolean;
-  nofollow: boolean;
-  robots: Robots;
+  noindex?: boolean;
+  nofollow?: boolean;
+  robots?: Robots;
 
-  description: string;
-  canonical: string;
-  themeColor: string;
+  description?: string;
+  canonical?: string;
+  themeColor?: string;
 
-  metatag: MetatagProps[];
-  linktag: LinktagProps[];
+  metatag?: MetatagProps[];
+  linktag?: LinktagProps[];
 
-  twitter: Partial<TwitterProps>;
-  opengraph: Partial<OpengraphProps>;
+  twitter?: TwitterProps;
+  opengraph?: OpengraphProps;
 }
